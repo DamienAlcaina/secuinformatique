@@ -19,3 +19,16 @@ En quoi le facteur humain est-il important en sécurité informatique ?
 La sécurité informatique est l'un des aspects les plus critiques de notre vie numérique. Il est essentiel de veiller à ce que nos données personnelles et sensibles soient protégées des pirates informatiques et des cybercriminels qui sont toujours à l'affût pour exploiter la moindre faille. Cependant, même si nous nous appuyons sur des technologies et des outils avancés pour protéger nos actifs numériques, le facteur humain est tout aussi important dans la sécurité informatique. En fait, c'est souvent le maillon le plus faible de la chaîne.
 
 Le facteur humain dans la sécurité informatique fait référence au comportement et aux actions des personnes qui utilisent les systèmes et les réseaux informatiques. Il comprend à la fois les actions intentionnelles et non intentionnelles qui peuvent compromettre la sécurité du système. Par exemple, les employés peuvent, sans le savoir, cliquer sur un lien d'hameçonnage dans un courriel ou télécharger une pièce jointe malveillante, ce qui entraîne une violation de la sécurité. De même, des mots de passe faibles, le partage de mots de passe et le fait de laisser des appareils déverrouillés peuvent également exposer le système à des risques de sécurité.
+
+
+Expliquez la notion de risque juridique.
+
+Le risque juridique est la possibilité qu'une entreprise, une organisation ou une personne soit confrontée à des conséquences juridiques négatives en raison de ses actions ou de ses décisions. En d'autres termes, il s'agit de la possibilité que des actions ou des décisions prises par une entreprise ou une personne soient considérées comme étant en violation des lois et des réglementations en vigueur, ce qui peut entraîner des litiges, des amendes, des sanctions ou d'autres types de conséquences juridiques.
+
+
+Qu’est ce que le 2FA ?
+
+Le 2FA (de l'anglais "Two-Factor Authentication") est un mécanisme de sécurité informatique qui vise à renforcer la protection des comptes en ligne. Le 2FA utilise deux méthodes d'authentification distinctes pour vérifier l'identité de l'utilisateur avant de lui permettre l'accès à un compte en ligne.
+
+Le premier facteur d'authentification est généralement le mot de passe de l'utilisateur. Le second facteur peut être un code de vérification envoyé par SMS ou via une application dédiée sur un téléphone mobile, une clé de sécurité physique ou biométrique (empreinte digitale, reconnaissance faciale, etc.).
+
